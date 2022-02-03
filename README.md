@@ -4,7 +4,7 @@ main (){
 
 int arr[6] {2,5,99,-3,3,-12};         
 int j = 0;
-
+massive
 for(int i = 0;i<6;i++){
     cout<<arr[i]<<" ";
 }
